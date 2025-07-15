@@ -5,17 +5,17 @@
 
 ## 📋 Índice de Contenidos
 
-1. [Introducción y Fundamentos](#introducción-y-fundamentos)
-2. [Por Qué Ambos Formatos (MD y PDF)](#por-qué-ambos-formatos-md-y-pdf)
-3. [Metodología y Herramientas Incluidas](#metodología-y-herramientas-incluidas)
-4. [Guía Práctica de Implementación](#guía-práctica-de-implementación)
-5. [Casos de Uso Específicos](#casos-de-uso-específicos)
-6. [Herramientas Recomendadas](#herramientas-recomendadas)
-7. [Métricas de Éxito](#métricas-de-éxito)
-8. [Mantenimiento y Actualización](#mantenimiento-y-actualización)
-9. [Recursos](#recursos)
-10. [Implementación Avanzada con ExpansIA](#implementación-avanzada-con-expansia)
-11. [Archivo de Documentos](#archivo-de-documentos)
+1. [Introducción y Fundamentos](#-introducción-y-fundamentos)
+2. [Por Qué Ambos Formatos (MD y PDF)](#-por-qué-ambos-formatos-md-y-pdf)
+3. [Metodología y Herramientas Incluidas](#-metodología-y-herramientas-incluidas)
+4. [Guía Práctica de Implementación](#-guía-práctica-de-implementación)
+5. [Casos de Uso Específicos](#-casos-de-uso-específicos)
+6. [Herramientas Recomendadas](#-herramientas-recomendadas)
+7. [Métricas de Éxito](#-métricas-de-éxito)
+8. [Mantenimiento y Actualización](#-mantenimiento-y-actualización)
+9. [Recursos](#-recursos)
+10. [Implementación Avanzada con ExpansIA](#-implementación-avanzada-con-expansia)
+11. [Archivo de Documentos](#-archivo-de-documentos)
 
 ---
 
